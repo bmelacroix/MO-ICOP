@@ -8,7 +8,7 @@
 
 ## PPSN2020/GECCO2021 problems
 
-Problems used in the PPSN2020 and GECCO2021 can be found at
+Problems used in the PPSN2020 and GECCO2021 can be found in the 'PPSN2021 problems.zip' file
 
 The reference Pareto fronts used for calculating Hyper volumes can be found here (quite a large
 https://www.dropbox.com/sh/fpvwz8pesg42dzm/AADdOWfHmpMgOspj5ogX6y4Za?dl=0
