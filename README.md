@@ -1,5 +1,10 @@
 # Multi-Objective Continuous Optimisation Problems MO-ICOP
-## Introduction
+
+## Content
+
+- R code for generating MO-ICOP
+- JMetal code for integrating generated MO-ICOPs in JMetal
+
 
 ## PPSN2020/GECCO2021 problems
 
