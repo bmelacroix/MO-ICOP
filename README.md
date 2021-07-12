@@ -1,6 +1,13 @@
 # Multi-Objective Continuous Optimisation Problems MO-ICOP
 ## Introduction
 
+## PPSN2020/GECCO2021 problems
+
+Problems used in the PPSN2020 and GECCO2021 can be found at
+
+The reference Pareto fronts used for calculating Hyper volumes can be found here (quite a large
+https://www.dropbox.com/sh/fpvwz8pesg42dzm/AADdOWfHmpMgOspj5ogX6y4Za?dl=0
+
 ## Citation
 
 A-C. Zăvoianu, B. Lacroix, and J. McCall. 2020. Comparative run-time performance of evolutionary algorithms on multi-objective interpolated continuous optimisation problems. In Parallel Problem Solving from Nature (PPSN XVI). Springer, 287–300.
