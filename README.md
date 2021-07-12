@@ -3,7 +3,7 @@
 ## Content
 
 - R code for generating MO-ICOP
-- JMetal code for integrating generated MO-ICOPs in JMetal
+- JMetal code for integrating generated MO-ICOPs in JMetal. In the ICOP.java file, you will need to change the path to the ICOP parameters (line 103 and 105)
 
 
 ## PPSN2020/GECCO2021 problems
